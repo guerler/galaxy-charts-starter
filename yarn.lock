@@ -695,10 +695,10 @@ galaxy-charts-xml-parser@^1.0.3:
   dependencies:
     axios "^1.7.7"
 
-galaxy-charts@^0.0.47:
-  version "0.0.47"
-  resolved "https://registry.npmjs.org/galaxy-charts/-/galaxy-charts-0.0.47.tgz"
-  integrity sha512-/DHCCUtqxYj8B2WzzkoJnWR5pPP9BhHFard2zNn3wuiu5YcsSopdlFZZXqqYNPhD3SBBuy/30X9hZIIhCW1tIg==
+galaxy-charts@^0.0.48:
+  version "0.0.48"
+  resolved "https://registry.npmjs.org/galaxy-charts/-/galaxy-charts-0.0.48.tgz"
+  integrity sha512-4ByL+pRe/4eYLXqXNQd4b7ZNYwpLbVKsK14Fxopw/Xtl7tBtrX254InIyPRphBF/IQSPZBzJInnmuDAA4fnEhA==
 
 glob-parent@^5.1.2:
   version "5.1.2"
