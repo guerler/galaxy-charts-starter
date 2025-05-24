@@ -11,8 +11,5 @@
     <params>
         <param type="dataset">dataset_id</param>
     </params>
-    <requirements>
-        <requirement type="npm" version="MY_NPM_PACKAGE_VERSION" package="MY_NPM_PACKAGE_NAME"/>
-    </requirements>
     <entry_point entry_point_type="script" src="dist/index.js" css="dist/index.css" />
 </visualization>
