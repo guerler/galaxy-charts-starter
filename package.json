@@ -3,12 +3,14 @@
     "version": "0.0.0",
     "type": "module",
     "license": "MIT",
-    "files": ["static"],
+    "files": [
+        "static"
+    ],
     "scripts": {
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview",
-        "prettier": "prettier --config ./prettier.config.js --write 'package.json' '**/*.{js,jsx,ts,tsx,json,css,md,vue}'",
+        "prettier": "prettier --config ./prettier.config.js --write './*.{js,ts,json}' 'src/**/*.{js,ts,json,css,vue}'",
         "test": "vitest",
         "test:watch": "vitest --watch",
         "test:ui": "vitest --ui"
