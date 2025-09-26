@@ -16,6 +16,6 @@
             "@/*": ["src/*"]
         }
     },
-    "include": ["lib", "src/**/*.ts", "src/**/*.vue"],
+    "include": ["src/**/*.ts", "src/**/*.vue"],
     "exclude": ["node_modules", "static"]
 }
