@@ -11,9 +11,10 @@
         "build": "vite build",
         "preview": "vite preview",
         "prettier": "prettier --config ./prettier.config.js --write './*.{js,ts,json}' 'src/**/*.{js,ts,json,css,vue}'",
-        "test": "vitest",
-        "test:watch": "vitest --watch",
-        "test:ui": "vitest --ui"
+        "test": "npm run test:unit",
+        "test:ui": "vitest --ui",
+        "test:unit": "vitest run",
+        "test:watch": "vitest --watch"
     },
     "devDependencies": {
         "@types/node": "^22.9.0",
