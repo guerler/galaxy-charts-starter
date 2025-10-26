@@ -28,7 +28,7 @@ async function main() {
         const dataIncoming = {
             visualization_config: {
                 // Placeholder for dataset ID
-                dataset_id: process.env.dataset_id || pageUrl.searchParams.get("dataset_id") || "__test__",
+                dataset_id: pageUrl.searchParams.get("dataset_id") || process.env.dataset_id || "__test__",
                 // Placeholder for additional visualization settings
                 settings: {},
             },
