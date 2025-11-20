@@ -11,5 +11,5 @@
     <params>
         <param required="true">dataset_id</param>
     </params>
-    <entry_point entry_point_type="script" src="dist/index.js" css="dist/index.css" />
+    <entry_point src="dist/index.js" css="dist/index.css" />
 </visualization>
