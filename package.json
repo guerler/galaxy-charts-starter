@@ -17,19 +17,18 @@
         "test:watch": "vitest --watch"
     },
     "devDependencies": {
+        "@tailwindcss/vite": "^4.1.18",
         "@types/node": "^22.9.0",
         "@vitejs/plugin-vue": "^6.0.3",
-        "@vitest/ui": "^3.1.2",
-        "autoprefixer": "^10.4.19",
-        "galaxy-charts": "^0.0.94",
+        "@vitest/ui": "^4.0.16",
+        "galaxy-charts": "^0.0.95",
         "galaxy-charts-xml-parser": "^1.0.3",
-        "jsdom": "^25.0.1",
-        "postcss": "^8.4.40",
-        "prettier": "^3.3.3",
-        "tailwindcss": "^3.4.7",
-        "typescript": "^5.5.4",
+        "happy-dom": "^20.0.11",
+        "prettier": "^3.7.4",
+        "tailwindcss": "^4.1.18",
+        "typescript": "^5.9.3",
         "vite": "^7.3.0",
-        "vitest": "^3.1.2",
-        "vue": "^3.4.31"
+        "vitest": "^4.0.16",
+        "vue": "^3.5.26"
     }
 }
