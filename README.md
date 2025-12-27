@@ -1,8 +1,10 @@
 # <img src="https://cdn.jsdelivr.net/gh/galaxyproject/galaxy-charts/docs/public/galaxy-charts.svg" alt="Galaxy Charts Logo" width="24" /> Galaxy Charts Starter
 
-This is a starter template for building custom visualizations using [Galaxy Charts](https://github.com/galaxyproject/galaxy-charts), a modern framework for Galaxy visualization development based on [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/).
+This is a starter template for building custom visualizations using [Galaxy Charts](https://charts.galaxyproject.org), a modern framework for Galaxy visualization development.
 
-Use this repo as a starting point for your own Galaxy visualization plugins.
+The starter template uses [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/) and includes the optional [Galaxy Charts UI](https://github.com/galaxyproject/galaxy-charts) package for rapid development.
+
+Use this repository as a starting point for Galaxy visualization plugins.
 
 ---
 
