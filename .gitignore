@@ -1,7 +1,3 @@
-.DS_Store
-.vscode/*
-.vitepress/cache
-.vitepress/.temp
 *.local
 *.log
 *.suo
@@ -9,9 +5,13 @@
 *.ntvs*
 *.sln
 *.sw?
+.DS_Store
+.vscode/*
 coverage
 dist
 dist-ssr
+docs/.vitepress/cache
+docs/.vitepress/.temp
 lerna-debug.log*
 logs
 node_modules
