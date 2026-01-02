@@ -1,5 +1,7 @@
 .DS_Store
 .vscode/*
+.vitepress/cache
+.vitepress/.temp
 *.local
 *.log
 *.suo
@@ -7,6 +9,7 @@
 *.ntvs*
 *.sln
 *.sw?
+coverage
 dist
 dist-ssr
 lerna-debug.log*
@@ -14,5 +17,7 @@ logs
 node_modules
 npm-debug.log*
 pnpm-debug.log*
+static
+temp
 yarn-debug.log*
 yarn-error.log*
